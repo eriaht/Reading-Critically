@@ -3,7 +3,7 @@ The main idea is to provide tips for reading critically, fostering the skills ne
 
 ### Contents
 1. Determining the Main Idea\
-&nbsp;&nbsp;&nbsp;&nbsp;- 1.1 Make a Diagram
+&nbsp;&nbsp;&nbsp;&nbsp;1.1 Make a Diagram
 2. Clarifying and Summarizing
 3. Identifying Problems and Solutions
 4. Analyzing Causes and Recognizing Effects
