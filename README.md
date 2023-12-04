@@ -2,7 +2,7 @@
 The main idea is to provide tips for reading critically, fostering the skills necessary to succeed when learning something new.
 
 ### Contents
-1. Determining the Main Idea
+1. Determining the Main Idea\
 &nbsp;&nbsp;&nbsp;&nbsp;- 1.1 Make a Diagram
 2. Clarifying and Summarizing
 3. Identifying Problems and Solutions
