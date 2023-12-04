@@ -27,5 +27,5 @@ The main idea is a statement that summarizes the author's point of a paragraph, 
 When making a diagram state the topic, then list supporting details below it. Use the supporting details to declare the main idea.
 <br/>
 <br/>
-![diagram-export-12-4-2023-5_15_42-AM](https://github.com/eriaht/Reading-Critically/assets/44909814/4d76db61-661d-4cd4-ae19-5bce8dd16751)
+![diagram-export-12-4-2023-5_31_03-AM](https://github.com/eriaht/Reading-Critically/assets/44909814/3e284be8-3e20-47e2-9cb2-719b13eec1cd)
 *Image 1.1-1 Main Idea Diagram Example*
