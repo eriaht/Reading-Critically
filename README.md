@@ -27,7 +27,7 @@ When making a diagram state the topic, then list supporting details below it. Us
 <br/>
 <br/>
 ![diagram-export-12-4-2023-9_35_20-PM](https://github.com/eriaht/Reading-Critically/assets/44909814/0afdcfae-f20c-4ebf-ad39-8b2706283234)
-*Image 1.1-1 Main Idea Diagram Example*
+*Image 1-1 Main Idea Diagram Example*
 <br/>
 <br/>
 ## 2. Clarifying and Summarizing
