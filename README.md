@@ -36,7 +36,7 @@ Clarifying means making a clear understanding of what you read or saw. A good wa
 <br/>
 Summarizing means restating what you just read with fewer words. When summarizing, state the main ideas and most important details in your own words, reducing what you just read into a brief report of its general ideas.
 <br/>
-Write a summary to clarify you understanding of the main ideas and important details.
+Write a summary to clarify your understanding of the main ideas and important details.
 <br/>
 <br/>
 ## 3. Identifying Problems and Solutions
