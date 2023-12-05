@@ -32,7 +32,7 @@ When making a diagram state the topic, then list supporting details below it. Us
 <br/>
 <br/>
 ## 2. Clarifying and Summarizing
-Clarifying means making a clear understanding of what you read or saw. A good way of making sure you understand the material you have just read is to ask yourself questions about the material. In your answers to your questions restate the content in your own words.
+Clarifying means having a clear understanding of what you read or saw. A good way to make sure you understand the material you have just read is to ask yourself questions about the material. In your answers to your questions, restate the content in your own words.
 <br/>
 Summarizing means restating what you just read with fewer words. When summarizing, state the main ideas and most important details in your own words, reducing what you just read into a brief report of its general ideas.
 <br/>
