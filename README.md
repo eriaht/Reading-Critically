@@ -29,3 +29,12 @@ When making a diagram state the topic, then list supporting details below it. Us
 <br/>
 ![diagram-export-12-4-2023-9_35_20-PM](https://github.com/eriaht/Reading-Critically/assets/44909814/0afdcfae-f20c-4ebf-ad39-8b2706283234)
 *Image 1.1-1 Main Idea Diagram Example*
+<br/>
+<br/>
+## 2. Clarifying and Summarizing
+Clarifying means making a clear understanding of what you read or saw. A good way of making sure you understand the material you have just read is to ask yourself questions about the material. In your answers to your questions restate the content in your own words.
+Summarizing means restating what you just read with fewer words. When summarizing, state the main ideas and most important details in your own words, reducing what you just read into a brief report of its general ideas.
+Write a summary to clarify you understanding of the main ideas and important details.
+<br/>
+<br/>
+## 3. Identifying Problems and Solutions
